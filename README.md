@@ -11,4 +11,4 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/sohambhardwaj">@selimdoyranli</a></p>
+<p align="center">⭐️ From <a href="https://github.com/sohambhardwaj">@sohambhardwaj</a></p>
