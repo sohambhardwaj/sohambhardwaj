@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/soham-bhardwaj/">Soham</a>.<br> I'm a 3rd year student at Delhi Technological University.
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" width="350" />
+</p>
 
-<!--
-**sohambhardwaj/sohambhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+<p align="center">⭐️ From <a href="https://github.com/sohambhardwaj">@selimdoyranli</a></p>
